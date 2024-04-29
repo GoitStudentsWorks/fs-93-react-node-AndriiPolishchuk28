@@ -14,7 +14,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate persistor={persistor} loading={null}>
-        <BrowserRouter basename="/water-tracker-frontend">
+        <BrowserRouter basename="/fs-93-react-node-AndriiPolishchuk28">
           <App />
           <ToastContainer
             position="top-center"
