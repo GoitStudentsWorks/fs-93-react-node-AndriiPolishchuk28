@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-93-react-node-AndriiPolishchuk28/static/css/main.ea8c7ff6.css",
-    "main.js": "/fs-93-react-node-AndriiPolishchuk28/static/js/main.121b30f3.js",
+    "main.js": "/fs-93-react-node-AndriiPolishchuk28/static/js/main.1885a3d3.js",
     "static/js/660.9a729d86.chunk.js": "/fs-93-react-node-AndriiPolishchuk28/static/js/660.9a729d86.chunk.js",
     "static/js/70.59b4987b.chunk.js": "/fs-93-react-node-AndriiPolishchuk28/static/js/70.59b4987b.chunk.js",
     "static/js/188.5d915551.chunk.js": "/fs-93-react-node-AndriiPolishchuk28/static/js/188.5d915551.chunk.js",
@@ -33,7 +33,7 @@
     "static/media/personal-rate-setting.svg": "/fs-93-react-node-AndriiPolishchuk28/static/media/personal-rate-setting.08985f6a16d27a203593b7903d173927.svg",
     "static/media/view-statistics.svg": "/fs-93-react-node-AndriiPolishchuk28/static/media/view-statistics.1d15fba1c5e024b51c017bad4ac84aa0.svg",
     "main.ea8c7ff6.css.map": "/fs-93-react-node-AndriiPolishchuk28/static/css/main.ea8c7ff6.css.map",
-    "main.121b30f3.js.map": "/fs-93-react-node-AndriiPolishchuk28/static/js/main.121b30f3.js.map",
+    "main.1885a3d3.js.map": "/fs-93-react-node-AndriiPolishchuk28/static/js/main.1885a3d3.js.map",
     "660.9a729d86.chunk.js.map": "/fs-93-react-node-AndriiPolishchuk28/static/js/660.9a729d86.chunk.js.map",
     "70.59b4987b.chunk.js.map": "/fs-93-react-node-AndriiPolishchuk28/static/js/70.59b4987b.chunk.js.map",
     "188.5d915551.chunk.js.map": "/fs-93-react-node-AndriiPolishchuk28/static/js/188.5d915551.chunk.js.map",
@@ -45,6 +45,6 @@
   },
   "entrypoints": [
     "static/css/main.ea8c7ff6.css",
-    "static/js/main.121b30f3.js"
+    "static/js/main.1885a3d3.js"
   ]
 }
